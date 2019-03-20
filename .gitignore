@@ -1,0 +1,8 @@
+#Notebook Checkpoints
+.ipynb_checpoints/
+
+#log files
+*.log
+
+# Metastore_db
+metastore_db/
